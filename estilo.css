@@ -27,8 +27,8 @@
     left:225px;
     background-image: url(/imagens/fundocarta.png);
 }
-.nome1{
-    position: absolute;
+.nome{
+    position: relative;
     top:14px;
     left:22px;
 }
