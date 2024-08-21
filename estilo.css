@@ -27,13 +27,37 @@
     left:225px;
     background-image: url(/imagens/fundocarta.png);
 }
+.carta3{
+    width:200px;
+    height:280.8px;
+    position:absolute;
+    top:20px;
+    left:430px;
+    background-image: url(/imagens/fundocarta.png);
+}
+.carta4{
+    width:200px;
+    height:280.8px;
+    position:absolute;
+    top:20px;
+    left:635px;
+    background-image: url(/imagens/fundocarta.png);
+}
 .nome{
     position: relative;
     top:14px;
     left:22px;
 }
 .imagem1{
+    position: relative;
+    top:00px;
+    left:20px;
     width:162px;
     height:120px;
     background-image: url(/imagens/imagem1svg.svg);
 }
+.custo{
+    position: relative;
+    top:-3px;
+    left:152px;
+ }
