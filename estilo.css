@@ -32,3 +32,8 @@
     top:14px;
     left:22px;
 }
+.imagem1{
+    width:162px;
+    height:120px;
+    background-image: url(/imagens/carta1.png);
+}
