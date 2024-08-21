@@ -10,7 +10,7 @@
 serão 10 cartas por página*/
 
 .board{
-  width:1200px;
+  width:1100px;
   height: 620px;
   background-image:  linear-gradient(green,rgb(96, 229, 96));
 }
